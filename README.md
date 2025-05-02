@@ -140,6 +140,12 @@ jupyter notebook Codes/time_series_analysis.ipynb
 
 ## Contributing
 
-Contributions welcome! Please fork, create a feature branch, and submit a pull request.
+This project is maintained by:
+
+- **[Jal Dani](https://github.com/JalDani2010)** – Primary author and analyst  
+- **[Sumit Vishwakarma](https://github.com/Sumit-320)** – Primary author and analyst
+
+
+
 
 
